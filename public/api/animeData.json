@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "进击的巨人 最终季 Part.2",
+    "description": "随着墙外巨人的真相以及巨人的由来浮出水面，艾伦·耶格尔的战斗进入了新的阶段。他将何去何从？",
+    "coverImage": "/images/0001.jpg",
+    "thumbnailImage": "/images/001.jpg",
+    "posterImage": "/images/001.jpg",
+    "genre": ["热血", "战斗", "奇幻", "悬疑"],
+    "year": 2022,
+    "episodes": 12,
+    "rating": 9.5,
+    "videoUrls": [
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=1&autoplay=false",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=2&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=3&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=4&autoplay=truee",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=5&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=6&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=7&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=8&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=9&autoplay=true"
+    
+  ]
+  },
+  {
+    "id": 2,
+    "title": "鬼灭之刃 游郭篇",
+    "description": "炭治郎、祢豆子、善逸和伊之助与音柱宇髄天元一同前往吉原游郭，执行新的任务。",
+    "coverImage": "/images/0002.jpg",
+    "thumbnailImage": "/images/002.jpg",
+    "posterImage": "/images/002.jpg",
+    "genre": ["热血", "战斗", "奇幻", "时代剧"],
+    "year": 2021,
+    "episodes": 11,
+    "rating": 9.3,
+    "videoUrls": [
+    "https://player.bilibili.com/player.html?bvid=BV1EZ4y1C7H1&autoplay=false",
+    "https://player.bilibili.com/player.html?bvid=BV1PF411b74C&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=3&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=4&autoplay=truee",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=5&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=6&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=7&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=8&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1DWEiz7Epi&p=9&autoplay=true"
+    
+  ]
+  },
+  {
+    "id": 3,
+    "title": "咒术回战 剧场版 0",
+    "description": "乙骨忧太的纯爱与诅咒的故事。前传性质的剧场版，揭示了更多咒术世界的秘密。",
+    "coverImage": "/images/0003.jpg",
+    "thumbnailImage": "/images/003.jpg",
+    "posterImage": "/images/003.jpg",
+    "genre": ["热血", "战斗", "校园", "奇幻"],
+    "year": 2021,
+    "episodes": 1,
+    "rating": 9.2,
+    "videoUrls": [
+    "https://player.bilibili.com/player.html?bvid=BV15VfPYoEUJ&autoplay=false"
+
+  ]
+  },
+  {
+    "id": 4,
+    "title": "间谍过家家",
+    "description": "顶尖间谍“黄昏”受命组成家庭，以便潜入名校。他找到的“女儿”是会读心的超能力者，“妻子”是暗杀者！",
+    "coverImage": "/images/0004.jpg",
+    "thumbnailImage": "/images/004.jpg",
+    "posterImage": "/images/004.jpg",
+    "genre": ["喜剧", "日常", "动作", "家庭"],
+    "year": 2022,
+    "episodes": 25,
+    "rating": 9.1,
+    "videoUrls": [
+    "https://player.bilibili.com/player.html?bvid=BV16ADrYSEMo&autoplay=false"
+    
+  ]
+  },
+  {
+    "id": 5,
+    "title": "国王排名",
+    "description": "天生失聪、身体孱弱的小王子波吉，梦想成为世界上最伟大的国王，为此他踏上了充满勇气的冒险旅程。",
+    "coverImage": "/images/0005.jpg",
+    "thumbnailImage": "/images/005.jpg",
+    "posterImage": "/images/005.jpg",
+    "genre": ["奇幻", "治愈", "冒险", "成长"],
+    "year": 2021,
+    "episodes": 23,
+    "rating": 9.0
+  },
+  {
+    "id": 6,
+    "title": "辉夜大小姐想让我告白 -究极浪漫-",
+    "description": "秀知院学园的学生会会长白银御行与副会长四宫辉夜，在彼此喜欢的双方面前，如何让对方先告白的恋爱头脑战再度升级。",
+    "coverImage": "/images/0006.jpeg",
+    "thumbnailImage": "/images/006.jpg",
+    "posterImage": "/images/006.jpg",
+    "genre": ["恋爱", "喜剧", "校园"],
+    "year": 2022,
+    "episodes": 13,
+    "rating": 9.4
+  },
+  {
+    "id": 7,
+    "title": "夏日重现",
+    "description": "为了参加青梅竹马小舟潮的葬礼，网代慎平回到了故乡日都岛。却卷入了一系列离奇的事件和“影子”传说之中。",
+    "coverImage": "/images/007.jpg",
+    "thumbnailImage": "/images/007.jpg",
+    "posterImage": "/images/007.jpg",
+    "genre": ["悬疑", "惊悚", "奇幻", "时间循环"],
+    "year": 2022,
+    "episodes": 25,
+    "rating": 9.0
+  },
+  {
+    "id": 8,
+    "title": "莉可丽丝",
+    "description": "在维持日本治安的秘密组织“DA”旗下，有着名为“Lycoris”的少女特工。锦木千束与井之上泷奈的相遇，会带来怎样的故事？",
+    "coverImage": "/images/008.jpg",
+    "thumbnailImage": "/images/008.jpg",
+    "posterImage": "/images/008.jpg",
+    "genre": ["百合", "动作", "日常"],
+    "year": 2022,
+    "episodes": 13,
+    "rating": 8.8
+  },
+  {
+    "id": 9,
+    "title": "赛博朋克：边缘行者",
+    "description": "在一个对身体改造痴迷的未来都市，一个街头小子试图通过成为边缘行者（亦被称为“赛博浪客”）而在夜之城中幸存下来。",
+    "coverImage": "/images/009.jpg",
+    "thumbnailImage": "/images/009.jpg",
+    "posterImage": "/images/009.jpg",
+    "genre": ["科幻", "动作", "赛博朋克"],
+    "year": 2022,
+    "episodes": 10,
+    "rating": 9.2
+  },
+  {
+    "id": 10,
+    "title": "更衣人偶坠入爱河",
+    "description": "梦想成为雏人偶工匠的男高中生五条新菜，与总是位于集团中心的美少女辣妹喜多川海梦因Cosplay而结缘的故事。",
+    "coverImage": "/images/010.jpg",
+    "thumbnailImage": "/images/010.jpg",
+    "posterImage": "/images/010.jpg",
+    "genre": ["恋爱", "喜剧", "校园", "日常"],
+    "year": 2022,
+    "episodes": 12,
+    "rating": 8.5
+  }
+]
