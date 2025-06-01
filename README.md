@@ -16,19 +16,19 @@
 --------------------------
 
 ## 首页效果
-![首页](ShowImgshouye.png)
+![首页](ShowImg/shouye.png)
 
 ## 动漫详情页
-![详情页](ShowImgdetail.png)
+![详情页](ShowImg/detail.png)
 
 ## 动漫分类
-![分类](ShowImgsort.png)
+![分类](ShowImg/sort.png)
 
 ## 个人首页及其收藏
-![个人](ShowImguser.png)
+![个人](ShowImg/user.png)
 
 ## 排行页
-![排行](ShowImgrank.png)
+![排行](ShowImg/rank.png)
 
 ## 搜索页
-![输入图片说明](ShowImgsearch.png)
+![输入图片说明](ShowImg/search.png)
