@@ -81,15 +81,18 @@
   },
   {
     "id": 5,
-    "title": "国王排名",
-    "description": "天生失聪、身体孱弱的小王子波吉，梦想成为世界上最伟大的国王，为此他踏上了充满勇气的冒险旅程。",
+    "title": "BanG Dream! It's MyGO!!!!!",
+    "description": "高一的春末。羽丘女子学园的所有人都加入了乐队，晚入学的爱音为了尽快融入班级，急急忙忙地寻找着乐队成员。这时她得知，「羽丘的不可思议女孩」灯还没有加入乐队，于是爱音不由自主地向她打起了招呼，但是……。这是遍体鳞伤又狼狈不堪的，我们的＜ 音乐 呐喊 ＞。迷失方向也无所谓、在迷茫中前进吧！",
     "coverImage": "/images/0005.jpg",
     "thumbnailImage": "/images/005.jpg",
     "posterImage": "/images/005.jpg",
-    "genre": ["奇幻", "治愈", "冒险", "成长"],
-    "year": 2021,
-    "episodes": 23,
-    "rating": 9.0
+    "genre": ["音乐", "青春", "校园","剧情"],
+    "year": 2023,
+    "episodes": 13,
+    "rating": 9.0,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1Zu4y1B7DU&autoplay=true"
+    ]
   },
   {
     "id": 6,
@@ -101,7 +104,10 @@
     "genre": ["恋爱", "喜剧", "校园"],
     "year": 2022,
     "episodes": 13,
-    "rating": 9.4
+    "rating": 9.4,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1Qa411Q7XT&autoplay=true"
+    ]
   },
   {
     "id": 7,
@@ -113,7 +119,10 @@
     "genre": ["悬疑", "惊悚", "奇幻", "时间循环"],
     "year": 2022,
     "episodes": 25,
-    "rating": 9.0
+    "rating": 9.0,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV18P4y1Z7VY&autoplay=true"
+    ]
   },
   {
     "id": 8,
@@ -125,7 +134,10 @@
     "genre": ["百合", "动作", "日常"],
     "year": 2022,
     "episodes": 13,
-    "rating": 8.8
+    "rating": 8.8,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1YP4y1f7c3&autoplay=true"
+    ]
   },
   {
     "id": 9,
@@ -137,7 +149,20 @@
     "genre": ["科幻", "动作", "赛博朋克"],
     "year": 2022,
     "episodes": 10,
-    "rating": 9.2
+    "rating": 9.2,
+    "videoUrls": [
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=1&autoplay=false",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=2&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=3&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=4&autoplay=truee",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=5&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=6&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=7&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=8&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=9&autoplay=true",
+    "https://player.bilibili.com/player.html?bvid=BV1rELqzfEVy&p=10&autoplay=true"
+    
+  ]
   },
   {
     "id": 10,
@@ -149,6 +174,119 @@
     "genre": ["恋爱", "喜剧", "校园", "日常"],
     "year": 2022,
     "episodes": 12,
-    "rating": 8.5
+    "rating": 8.5,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=2&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=3&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=4&autoplay=truee",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=5&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=6&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=7&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=8&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=9&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1cpjizwEtr&p=10&autoplay=true"
+      
+    ]
+  },
+  {
+    "id": 11,
+    "title": "BanG Dream! Ave Mujica",
+    "description": "「我说过了吧？请你们将剩余的人生交给我」 丰川祥子招募组建的乐队・Ave Mujica取得了演唱会和媒体曝光等商业上的成功。 少女失去了曾发誓命运与共的友人，又失去了自己出生长大的家庭。 她为什么要背负他人的一生，将乐队坚持下去呢？将过往与真容都以假面遮掩，今夜亦降临于完美的箱庭。",
+    "coverImage": "/images/011.jpg",
+    "thumbnailImage": "/images/011.jpg",
+    "posterImage": "/images/011.jpg",
+    "genre": ["音乐", "校园", "剧情"],
+    "year": 2024,
+    "episodes": 13,
+    "rating": 8.9,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1wz6uYzEFY&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1ZVrhYfE9u&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1C3cieNE3b&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1kxf8YCEE1&autoplay=false"
+      
+    ]
+  },
+  {
+    "id": 12,
+    "title": "佐贺偶像是传奇",
+    "description": "她们是生前来自不同时期的少女，集结成为特别的偶像团体，目标只有一个：唱吧！跳吧！战斗吧！",
+    "coverImage": "/images/012.jpg",
+    "thumbnailImage": "/images/012.jpg",
+    "posterImage": "/images/012.jpg",
+    "genre": ["音乐", "科幻", "青春"],
+    "year": 2020,
+    "episodes": 23,
+    "rating": 9.9,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1b7GBzBE3t&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1b7GBzBE3t&p=2&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1b7GBzBE3t&p=3&autoplay=false"
+      
+    ]
+  },
+  {
+    "id": 13,
+    "title": "命运石之门",
+    "description": "疯狂科学家冈部伦太郎意外发明了可以发送信息到过去的装置，卷入了一场时间与命运的巨大阴谋。",
+    "coverImage": "/images/013.jpg",
+    "thumbnailImage": "/images/013.jpg",
+    "posterImage": "/images/013.jpg",
+    "genre": ["科幻", "悬疑", "时间穿越"],
+    "year": 2011,
+    "episodes": 24,
+    "rating": 9.8,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1yaVAzNEL7&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1yaVAzNEL7&p=2&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1yaVAzNEL7&p=3&autoplay=false"
+      
+    ]
+  },
+  {
+    "id": 14,
+    "title": "孤独摇滚！",
+    "description": "内向少女后藤一里在结识热情的乐队成员后，逐渐走出自我封闭的世界，踏上音乐之路。",
+    "coverImage": "/images/014.jpg",
+    "thumbnailImage": "/images/014.jpg",
+    "posterImage": "/images/014.jpg",
+    "genre": ["音乐", "青春", "校园", "日常"],
+    "year": 2022,
+    "episodes": 12,
+    "rating": 9.6,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1yW4y1j7Ft&autoplay=false"
+      
+    ]
+  },
+  {
+    "id": 15,
+    "title": "魔法少女小圆",
+    "description": "看似普通的少女们，在魔法的引诱下做出选择，却陷入残酷命运的循环。",
+    "coverImage": "/images/0015.jpg",
+    "thumbnailImage": "/images/015.jpg",
+    "posterImage": "/images/015.jpg",
+    "genre": ["魔法", "悬疑", "心理"],
+    "year": 2011,
+    "episodes": 12,
+    "rating": 9.8,
+    "videoUrls": [
+      "https://player.bilibili.com/player.html?bvid=BV1rx411N7Ph&autoplay=false",
+      "https://player.bilibili.com/player.html?bvid=BV1rh41147LL&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1h3411t7tA&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1NM4y1P7s3&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1Sb4y1t7Yf&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1qQ4y1v7po&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1AS4y1R7NF&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV143411t7L1&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1Mf4y1M7JT&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1oh411x7F5&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV19q4y1u7K9&autoplay=true",
+      "https://player.bilibili.com/player.html?bvid=BV1744y1Y7Vp&autoplay=true"
+      
+    ]
   }
+
+  
 ]
