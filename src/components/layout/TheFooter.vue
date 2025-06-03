@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <a href="https://gitee.com/huloo9/vue3-dongman" target="_blank">&copy; 2023 动漫宿营地. author: LHJ</a>
+    <a href="https://gitee.com/huloo9/vue3-dongman" target="_blank">&copy; 2025 动漫宿营地. author: LHJ</a>
   </footer>
 </template>
 
